@@ -21,14 +21,14 @@ This Bash script allows you to validate the integrity of a file by comparing its
 5. Choose a hash algorithm: md5, sha1 or sha256.
 6. The script calculates the hash of the file and compares it with the provided hash input. It will display whether the file's integrity is valid or compromised.
 
-##Supported Hash Algorithms
+## Supported Hash Algorithms
 
 * MD5
 * SHA-1
 * SHA-256
 
-##Requirements
+## Requirements
 
-##License
+## License
 
 This project is licensed under the MIT License.
