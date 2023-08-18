@@ -6,7 +6,7 @@ This Bash script allows you to validate the integrity of a file by comparing its
 
 1. Clone the repository:
    ```bash
-   https://github.com/karthikvadla09/Hash-Validate.git
+   git clone https://github.com/karthikvadla09/Hash-Validate.git
    cd Hash-Validate.git
    ```
 2. Make the script executable:
