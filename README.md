@@ -29,6 +29,9 @@ This Bash script allows you to validate the integrity of a file by comparing its
 
 ## Requirements
 
+* Bash
+* Appropriate hash algorithm utilities installed (e.g., md5sum, sha1sum, sha256sum, openssl)
+
 ## License
 
 This project is licensed under the MIT License.
