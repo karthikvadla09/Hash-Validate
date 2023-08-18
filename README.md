@@ -1,6 +1,6 @@
 # Hash Validation Script
 
-This Bash script allows you to validate the integrity of a file by comparing its hash against a provided hash input. You can choose from various hash algorithms such as MD5, SHA-1, SHA-256, and SHA-3. The script helps you determine whether the file's integrity is intact or compromised.
+This Bash script allows you to validate the integrity of a file by comparing its hash against a provided hash input. You can choose from various hash algorithms such as MD5, SHA-1 and SHA-256. The script helps you determine whether the file's integrity is intact or compromised.
 
 ## Usage
 
